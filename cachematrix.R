@@ -13,6 +13,7 @@
 ### b <- makeCacheMatrix(a)
 ### RUN THE FUNCTION cachesolve
 ### c <- cachesolve(b)
+### c
 
 #this makes the functions to be used for the 
 #matrix
